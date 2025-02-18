@@ -25,7 +25,7 @@ blog_tree = tree.add("📚 Blog Writer")
 blog_tree.add("📜 [link=https://ziadai.me/post/how-to-create-a-blog-in-2025]How to Create a Blog in 2025")
 
 about = """\
-I'm a Data Scientist specializing in NLP and Computer Vision, living in [link=https://maps.app.goo.gl/jX75Vtr6Qov5htL29]Benha[/], Egypt. Passionate about building intelligent systems that make a difference. I love working on open-source projects, contributing to AI research, and sharing knowledge through writing and mentoring.
+I'm a Data Scientist specializing in NLP and Computer Vision, living in [link=https://www.google.com/maps/place/Banha,+Qism+Banha,+Banha,+Al-Qalyubia+Governorate/@30.4589172,31.1884216,14z]Benha[/], Egypt. Passionate about building intelligent systems that make a difference. I love working on open-source projects, contributing to AI research, and sharing knowledge through writing and mentoring.
 
 Follow me on [bold link=https://x.com/ZiadMostaf_a]Twitter[/] and [bold link=https://www.linkedin.com/in/ziadmostafa]LinkedIn[/]. 
 
