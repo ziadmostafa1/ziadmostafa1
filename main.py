@@ -6,20 +6,20 @@ from rich.tree import Tree
 
 console = Console(record=True, width=120)
 
-tree = Tree("🚀 [link=https://ziadai.me]Ziad Mostafa", guide_style="bold cyan")
+tree = Tree("🤓 [link=https://ziadai.me]Ziad Mostafa", guide_style="bold cyan")
 
-data_science_tree = tree.add("📊 Data Scientist")
-data_science_tree.add("🔹 [link=https://github.com/ziadmostafa]GitHub Repositories ")
-data_science_tree.add("🔹 [link=https://huggingface.co/ziadmostafa]Hugging Face 🤗")
+data_science_tree = tree.add("👨🏻‍🔬 Data Scientist")
+data_science_tree.add("[link=https://github.com/ziadmostafa1]GitHub Repositories")
+data_science_tree.add("[link=https://huggingface.co/ziadmostafa]Hugging Face 🤗")
 
 
-github_tree = tree.add("🧑‍💻 Open Source Contributor")
-github_tree.add("[bold]Facial Age Transformation with CycleGAN[/bold] [link=https://github.com/ziadmostafa1/FaceAgingGAN]")
-github_tree.add("[bold]Fake News Detection with RNN & LSTM[/bold] [link=https://github.com/ziadmostafa1/Fake_News_Detection_with_RNN_and_LSTM]")
-github_tree.add("[bold]Real-time Sign Language Recognition[/bold] [link=https://github.com/ziadmostafa1/CV-Sections-Tasks/tree/main/Task3/Hands%20Sign]")
-github_tree.add("[bold]Fire and Smoke Detection with YOLOv8[/bold] [link=https://github.com/ziadmostafa1/CV-Sections-Tasks/tree/main/Task4]")
-github_tree.add("[bold]Egyptian Hieroglyph Classification[/bold] [link=https://github.com/ziadmostafa1/CV-Sections-Tasks/tree/main/Task2/Egyptian%20Hieroglyphs]")
-github_tree.add("[bold]Movie Recommendation System[/bold] [link=https://github.com/ziadmostafa1/Movie-Recommendation-System]")
+github_tree = tree.add("👨🏻‍💻 Open Source Contributor")
+github_tree.add("[link=https://ziadai.me/FaceAgingGAN]Facial Age Transformation with CycleGAN")
+github_tree.add("[link=https://ziadai.me/Fake_News_Detection_with_RNN_and_LSTM]Fake News Detection with RNN & LSTM]")
+github_tree.add("[link=https://ziadai.me/Hands_Sign]Real-time Sign Language Recognition]")
+github_tree.add("[link=https://ziadai.me/Fire_and_Smoke_Detection_with_YOLOv8]Fire and Smoke Detection with YOLOv8]")
+github_tree.add("[link=https://ziadai.me/Egyptian_Hieroglyphs]Egyptian Hieroglyph Classification]")
+github_tree.add("[link=https://ziadai.me/Movie_Recommendation_System]Movie Recommendation System]")
 
 blog_tree = tree.add("📚 Blog Writer")
 blog_tree.add("📜 [link=https://ziadai.me/post/how-to-create-a-blog-in-2025]How to Create a Blog in 2025")
@@ -29,7 +29,7 @@ I'm a Data Scientist specializing in NLP and Computer Vision, living in [link=ht
 
 Visit my website [bold link=https://ziadai.me]ziadai.me[/] and follow me on [bold link=https://www.linkedin.com/in/ziadmostafa]LinkedIn[/].
 
-Let's connect and talk AI!"""
+Feel free to ask me anything!"""
 
 panel = Panel.fit(
     about, box=box.DOUBLE, border_style="blue", title="[b]Hi 👋 I'm Ziad", width=60
